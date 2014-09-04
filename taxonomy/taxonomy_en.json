@@ -1,4 +1,4 @@
-{
+﻿{
   	"name":"taxonomy_en",
   	"children" :
   	[
@@ -59,7 +59,7 @@
 			  	    				"name" : "Soil management"
 			  	    			},
 			  	    			{	
-			  	    				"name" : "Irrigation & water management"
+			  	    				"name" : "Irrigation and water management"
 			  	    			}
 
 			  	    		]	  	       
@@ -110,7 +110,7 @@
 			  	    				"name" : "Palm oil"
 			  	    			},
 			  	    			{	
-			  	    				"name" : "Paper & pulp",
+			  	    				"name" : "Paper and pulp",
 			  	    				"children" :
 			  	    				[
 			  	    					{
@@ -459,7 +459,7 @@
 	    			"name" : "Environmental and biodiversity protection"	    			
 	    		},
 	    		{
-	    			"name" : "Pollution & Waste",
+	    			"name" : "Pollution and waste",
 	    			"children" :	    			
 			      	[
 			      		{
@@ -616,7 +616,7 @@
 			      			"name" : "Gravel and limestone" 
 			      		},
 			      		{
-			      			"name" : "Iron & steel" 
+			      			"name" : "Iron and steel" 
 			      		}
 			      	]
 	    		},
@@ -1080,7 +1080,7 @@
 	    	]
 	    },
 	    {
-	    	"name" : "Law & Judiciary",
+	    	"name" : "Law and Judiciary",
 	    	"children" :
 	    	[	 
 	    		{
@@ -1257,7 +1257,7 @@
 	    	]
 	    },
 	    {
-	    	"name" : "Population & censuses",
+	    	"name" : "Population and censuses",
 	    	"children" :
 	    	[	 
 	    		{
@@ -1743,7 +1743,7 @@
 	    	]
 	    },
 	    {
-	    	"name" : "Urban administration & development",
+	    	"name" : "Urban administration and development",
 	    	"children" :
 	    	[	 	    			
 	    		{
