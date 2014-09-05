@@ -17,7 +17,7 @@
 				  	  		"name" : "Agricultural policy and administration" 
 				  	  	},
 				  	    { 
-			  	    		"name" :  "Agricultural production",
+			  	    		"name" : "Agricultural production",
 			  	    		"children" : 
 			  	    		[
 			  	    			{
@@ -46,7 +46,7 @@
 			  	    		]	  	       
 			  	        },
 			  	        { 
-			  	    		"name" :  "Agricultural management systems and technologies",
+			  	    		"name" : "Agricultural management systems and technologies",
 			  	    		"children" : 
 			  	    		[	  	    			
 			  	    			{
@@ -65,7 +65,7 @@
 			  	    		]	  	       
 			  	        },
 			  	       	{ 
-			  	    		"name" :  "Agricultural commodities: processing and products",
+			  	    		"name" : "Agricultural commodities: processing and products",
 			  	    		"children" : 
 			  	    		[	  	    			
 			  	    			{
@@ -180,7 +180,7 @@
 		    ]
 	    },
 	    {
-	    	"name" : "Aid and Development",
+	    	"name" : "Aid and development",
 	    	"children" : 
 	    	[
 	    		{
@@ -194,7 +194,7 @@
 	    					"name" : "Asian Development Bank (ADB)"
 	    				},
 	    				{
-	    					"name" : "Food and Agriculture Organization (FAO)"
+	    					"name" : "Food and agriculture Organization (FAO)"
 	    				},
 	    				{
 	    					"name" : "International Monetary Fund (IMF)"
@@ -261,7 +261,7 @@
 	    	]
 	    },
 	    {
-	    	"name" : "Disasters and Emergency Response",
+	    	"name" : "Disasters and emergency response",
 	    	"children" :
 	    	[
 	    		{
@@ -310,7 +310,7 @@
 	    			"name" : "Economic policy and administration"
 	    		},
 	    		{
-	    			"name" : "Banking and Financial Services"
+	    			"name" : "Banking and financial services"
 	    		},
 	    		{
 	    			"name" : "Business associations",
@@ -478,7 +478,7 @@
 			      	]
 	    		},
 	    		{
-	    			"name" : "Forests and Forestry",
+	    			"name" : "Forests and forestry",
 	    			"children" :	    			
 			      	[
 			      		{
@@ -926,7 +926,7 @@
 			      			"name" : "Transport and shipping: status and trends"
 			      		},
 			      		{
-			      			"name" : "Transport and shipping:  policy and administration" 
+			      			"name" : "Transport and shipping: policy and administration" 
 			      		},
 			      		{
 			      			"name" : "Transport infrastructure and facilities",	    		
@@ -1080,7 +1080,7 @@
 	    	]
 	    },
 	    {
-	    	"name" : "Law and Judiciary",
+	    	"name" : "Law and judiciary",
 	    	"children" :
 	    	[	 
 	    		{
@@ -1370,10 +1370,10 @@
 	    			"children" :	    			
 			      	[
 			      		{
-			      			"name" : "Civil society:  status and trends"			      			
+			      			"name" : "Civil society: status and trends"			      			
 			      		},
 			      		{
-			      			"name" : "Civil society:  policy and regulation"			      			
+			      			"name" : "Civil society: policy and regulation"			      			
 			      		},
 			      		{
 			      			"name" : "Non-governmental organizations (NGOs)"			      			
@@ -1479,10 +1479,10 @@
 			      			"children" :	    			
 					      	[
 					      		{
-					      			"name" : "LGBTQ:  status and trends"
+					      			"name" : "LGBTQ: status and trends"
 					      		},
 					      		{
-					      			"name" : "LGBTQ:  policy and rights" 
+					      			"name" : "LGBTQ: policy and rights" 
 					      		},
 					      		{
 					      			"name" : "Development or social assistance  for LGBTQ community", 
@@ -1506,7 +1506,7 @@
 			      			"children" :	    			
 					      	[
 					      		{
-					      			"name" : "Women:  status and trends"
+					      			"name" : "Women: status and trends"
 					      		},
 					      		{
 					      			"name" : "Women: policy and administration",
@@ -1587,10 +1587,10 @@
 			      			"children" :	    			
 					      	[	
 					      		{
-					      			"name" : "The poor:  overview of status and trends"
+					      			"name" : "The poor: overview of status and trends"
 					      		},				      		
 					      		{
-					      			"name" : "The poor:  policy",
+					      			"name" : "The poor: policy",
 					      			"children" :	    			
 							      	[
 							      		{
@@ -1623,7 +1623,7 @@
 			      			"children" :	    			
 					      	[	
 					      		{
-					      			"name" : "Public health:  overview of public health status and trends"
+					      			"name" : "Public health: overview of public health status and trends"
 					      		},				      		
 					      		{
 					      			"name" : "Health care policy and administration",
